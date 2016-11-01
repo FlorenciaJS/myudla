@@ -32,7 +32,7 @@ Instalar plugins cordova:
 $ ionic state restore --plugins
 ```
 
-Instalar librerías de Bower: 
+Instalar librerías de Bower:
 
 ```bash
 $ bower install
@@ -43,3 +43,7 @@ Ejecutar en dispositivo fisico o emulador (android):
 ```bash
 $ ionic run android
 ```
+
+## Capturas de pantalla:
+
+![](resources/screenshot.png)
